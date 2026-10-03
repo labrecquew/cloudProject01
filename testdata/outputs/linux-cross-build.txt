@@ -1,0 +1,3 @@
+Verified Linux/amd64 ELF64 executable; no dynamic or interpreter segment.
+BinarySizeBytes=7004320
+This is the executable size, not a measured Docker image size.

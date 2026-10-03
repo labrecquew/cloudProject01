@@ -1,0 +1,32 @@
+
+Request: alice-1 | User: alice
+Topic: artificial intelligence
+Days: 2 | Maximum articles: 5
+UTC range: 2026-10-02T00:00:00Z to 2026-10-03T18:37:42Z
+
+Request: bob-1 | User: bob
+Topic: artificial intelligence
+Days: 2 | Maximum articles: 5
+UTC range: 2026-10-02T00:00:00Z to 2026-10-03T18:37:42Z
+
+Request: carol-1 | User: carol
+Topic: renewable energy
+Days: 3 | Maximum articles: 5
+UTC range: 2026-10-01T00:00:00Z to 2026-10-03T18:37:42Z
+
+Request: dave-1 | User: dave
+Topic: space exploration
+Days: 7 | Maximum articles: 5
+UTC range: 2026-09-27T00:00:00Z to 2026-10-03T18:37:42Z
+
+Request: erin-1 | User: erin
+Topic: renewable energy
+Days: 3 | Maximum articles: 5
+UTC range: 2026-10-01T00:00:00Z to 2026-10-03T18:37:42Z
+
+Request: frank-1 | User: frank
+Topic: space exploration
+Days: 7 | Maximum articles: 5
+UTC range: 2026-09-27T00:00:00Z to 2026-10-03T18:37:42Z
+
+Dry run: 6 valid requests. No API request was made.

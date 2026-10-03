@@ -1,0 +1,2 @@
+Error: batch line 2: days must be a positive integer
+exit status 1

@@ -1,0 +1,182 @@
+PS C:\Users\labre\cloudComputing\cloudProject01> & "C:\Program Files\Go\bin\go.exe" run . -query "artificial intelligence" -days 2 -limit 5
+Topic: artificial intelligence
+Days: 2 | Maximum articles: 5
+UTC range: 2026-10-02T00:00:00Z to 2026-10-03T18:22:29Z
+Returned: 5 | Source: API | API calls: 1 | Elapsed: 228ms
+Snapshot through: 2026-10-03T18:22:29Z
+
+1. Dem Candidate Sends “Cease and Desist” Order to Republican Over Deepfake Ads
+   Source: Truthout | Published: 2026-10-02T18:18:08Z
+   https://truthout.org/articles/dem-candidate-sends-cease-and-desist-order-to-republican-over-deepfake-ads/
+   Democrat Rebecca Cooke said the deepfakes produced by GOP Rep. Derrick Van Orden “undermine our democratic process.”…
+
+2. Other Barks & Bites for Friday, October 2: Third Circuit Unseals AI Fair Use Ruling; U.S. Stays Third in WIPO GII 2026; and Apple Hit With $5.7 Billion Verdict for Haptic Tech Infringement
+   Source: IPWatchdog.com | Published: 2026-10-02T18:15:17Z
+   https://ipwatchdog.com/2026/10/02/bites-barks-u-s-stays-third-in-wipo-gii-2026-and-apple-hit-with-5-7-billion-verdict-for-haptic-tech-infringement/
+   This week in Other Barks & Bites: the Federal Circuit affirms the invalidation of twist drill patent claims because the challenged patent could not claim priority to a parent patent application qualifying as prior art; the Third Circuit unseals its ruling aga…
+
+3. Over 38,000 tickets sold for Brasileirão Feminino A1 final at MorumBIS
+   Source: Onefootball.com | Published: 2026-10-02T18:14:00Z
+   https://onefootball.com/en/news/over-38000-tickets-sold-for-brasileirao-feminino-a1-final-at-morumbis-43552433
+   More than 38,000 tickets have already been sold for the Brasileirão Feminino A1 final, which will be contested between São Paulo and Corinthians this Saturday (3), at 4:30 p.m., at MorumBIS. The fig...
+
+4. Must-Have AI Skills for Your Resume
+   Source: Graphicdesignjunction.com | Published: 2026-10-02T18:07:27Z
+   https://graphicdesignjunction.com/2026/10/ai-skills-for-your-resume/
+   If you are preparing a resume for 2026 - 2027, these are some of the most useful AI skills to consider adding. Before adding new skills, it is also worth reviewing basic resume design principles so the document remains clear and easy to scan.
+The post Must-H…
+
+5. Men's football: Corinthians fine-tune for clashes, eyeing Brasileirão
+   Source: Onefootball.com | Published: 2026-10-02T18:05:00Z
+   https://onefootball.com/en/news/mens-football-corinthians-fine-tune-for-clashes-eyeing-brasileirao-43552387
+   Photo: Rodrigo Coca/Corinthians AgencyCorinthians continue to work hard in preparation for the resumption of the Brazilian Championship. On Friday morning (02), at CT Dr. Joaquim Grava, Timão held a ...
+PS C:\Users\labre\cloudComputing\cloudProject01>
+PS C:\Users\labre\cloudComputing\cloudProject01> & "C:\Program Files\Go\bin\go.exe" run . -query "artificial intelligence" -days 2 -limit 5
+Topic: artificial intelligence
+Days: 2 | Maximum articles: 5
+UTC range: 2026-10-02T00:00:00Z to 2026-10-03T18:22:37Z
+Returned: 5 | Source: Database | API calls: 0 | Elapsed: 2ms
+Snapshot through: 2026-10-03T18:22:29Z
+
+1. Dem Candidate Sends “Cease and Desist” Order to Republican Over Deepfake Ads
+   Source: Truthout | Published: 2026-10-02T18:18:08Z
+   https://truthout.org/articles/dem-candidate-sends-cease-and-desist-order-to-republican-over-deepfake-ads/
+   Democrat Rebecca Cooke said the deepfakes produced by GOP Rep. Derrick Van Orden “undermine our democratic process.”…
+
+2. Other Barks & Bites for Friday, October 2: Third Circuit Unseals AI Fair Use Ruling; U.S. Stays Third in WIPO GII 2026; and Apple Hit With $5.7 Billion Verdict for Haptic Tech Infringement
+   Source: IPWatchdog.com | Published: 2026-10-02T18:15:17Z
+   https://ipwatchdog.com/2026/10/02/bites-barks-u-s-stays-third-in-wipo-gii-2026-and-apple-hit-with-5-7-billion-verdict-for-haptic-tech-infringement/
+   This week in Other Barks & Bites: the Federal Circuit affirms the invalidation of twist drill patent claims because the challenged patent could not claim priority to a parent patent application qualifying as prior art; the Third Circuit unseals its ruling aga…
+
+3. Over 38,000 tickets sold for Brasileirão Feminino A1 final at MorumBIS
+   Source: Onefootball.com | Published: 2026-10-02T18:14:00Z
+   https://onefootball.com/en/news/over-38000-tickets-sold-for-brasileirao-feminino-a1-final-at-morumbis-43552433
+   More than 38,000 tickets have already been sold for the Brasileirão Feminino A1 final, which will be contested between São Paulo and Corinthians this Saturday (3), at 4:30 p.m., at MorumBIS. The fig...
+
+4. Must-Have AI Skills for Your Resume
+   Source: Graphicdesignjunction.com | Published: 2026-10-02T18:07:27Z
+   https://graphicdesignjunction.com/2026/10/ai-skills-for-your-resume/
+   If you are preparing a resume for 2026 - 2027, these are some of the most useful AI skills to consider adding. Before adding new skills, it is also worth reviewing basic resume design principles so the document remains clear and easy to scan.
+The post Must-H…
+
+5. Men's football: Corinthians fine-tune for clashes, eyeing Brasileirão
+   Source: Onefootball.com | Published: 2026-10-02T18:05:00Z
+   https://onefootball.com/en/news/mens-football-corinthians-fine-tune-for-clashes-eyeing-brasileirao-43552387
+   Photo: Rodrigo Coca/Corinthians AgencyCorinthians continue to work hard in preparation for the resumption of the Brazilian Championship. On Friday morning (02), at CT Dr. Joaquim Grava, Timão held a ...
+PS C:\Users\labre\cloudComputing\cloudProject01> & "C:\Program Files\Go\bin\go.exe" run . -query "artificial intelligence" -days 2 -limit 3
+Topic: artificial intelligence
+Days: 2 | Maximum articles: 3
+UTC range: 2026-10-02T00:00:00Z to 2026-10-03T18:23:32Z
+Returned: 3 | Source: Database | API calls: 0 | Elapsed: 1ms
+Snapshot through: 2026-10-03T18:22:29Z
+
+1. Dem Candidate Sends “Cease and Desist” Order to Republican Over Deepfake Ads
+   Source: Truthout | Published: 2026-10-02T18:18:08Z
+   https://truthout.org/articles/dem-candidate-sends-cease-and-desist-order-to-republican-over-deepfake-ads/
+   Democrat Rebecca Cooke said the deepfakes produced by GOP Rep. Derrick Van Orden “undermine our democratic process.”…
+
+2. Other Barks & Bites for Friday, October 2: Third Circuit Unseals AI Fair Use Ruling; U.S. Stays Third in WIPO GII 2026; and Apple Hit With $5.7 Billion Verdict for Haptic Tech Infringement
+   Source: IPWatchdog.com | Published: 2026-10-02T18:15:17Z
+   https://ipwatchdog.com/2026/10/02/bites-barks-u-s-stays-third-in-wipo-gii-2026-and-apple-hit-with-5-7-billion-verdict-for-haptic-tech-infringement/
+   This week in Other Barks & Bites: the Federal Circuit affirms the invalidation of twist drill patent claims because the challenged patent could not claim priority to a parent patent application qualifying as prior art; the Third Circuit unseals its ruling aga…
+
+3. Over 38,000 tickets sold for Brasileirão Feminino A1 final at MorumBIS
+   Source: Onefootball.com | Published: 2026-10-02T18:14:00Z
+   https://onefootball.com/en/news/over-38000-tickets-sold-for-brasileirao-feminino-a1-final-at-morumbis-43552433
+   More than 38,000 tickets have already been sold for the Brasileirão Feminino A1 final, which will be contested between São Paulo and Corinthians this Saturday (3), at 4:30 p.m., at MorumBIS. The fig...
+PS C:\Users\labre\cloudComputing\cloudProject01>
+PS C:\Users\labre\cloudComputing\cloudProject01> & "C:\Program Files\Go\bin\go.exe" run . -query "artificial intelligence" -days 2 -limit 8
+Topic: artificial intelligence
+Days: 2 | Maximum articles: 8
+UTC range: 2026-10-02T00:00:00Z to 2026-10-03T18:23:32Z
+Returned: 8 | Source: API | API calls: 1 | Elapsed: 176ms
+Snapshot through: 2026-10-03T18:23:32Z
+
+1. Shuffle Board: Levi’s Taps Skechers CFO; Derek Lam Returns
+   Source: WWD | Published: 2026-10-02T18:22:52Z
+   http://wwd.com/sourcing-journal/industry-news/shuffle-board-levis-skechers-cfo-derek-lam-returns-1239304845/
+   Levi Strauss recruits Skechers CFO John Vandemore while Derek Lam returns to his namesake label ahead of its relaunch under NYC Alliance.
+
+2. Want to do NASA research? 24 new US projects backed by $23 million will let citizen scientists hunt comets, study space weather and explore Earth data — all you need to know
+   Source: The Times of India | Published: 2026-10-02T18:22:50Z
+   https://economictimes.indiatimes.com/news/international/global-trends/want-to-do-nasa-research-24-new-us-projects-backed-by-23-million-will-let-citizen-scientists-hunt-comets-study-space-weather-and-explore-earth-data-all-you-need-to-know/articleshow/134643808.cms
+   NASA has selected 24 organizations to partake in a new Science Activation portfolio aimed at public engagement. This initiative will provide hands-on opportunities in scientific research across various fields, such as astronomy and Earth sciences. Communities…
+
+3. Fox News AI Newsletter: The neighborhood on the edge of America's tech frontier
+   Source: Fox News | Published: 2026-10-02T18:22:39Z
+   https://www.foxnews.com/tech/fox-news-ai-newsletter-neighborhood-edge-americas-tech-frontier
+   The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities AI presents now and for the future.
+
+4. Dem Candidate Sends “Cease and Desist” Order to Republican Over Deepfake Ads
+   Source: Truthout | Published: 2026-10-02T18:18:08Z
+   https://truthout.org/articles/dem-candidate-sends-cease-and-desist-order-to-republican-over-deepfake-ads/
+   Democrat Rebecca Cooke said the deepfakes produced by GOP Rep. Derrick Van Orden “undermine our democratic process.”…
+
+5. Other Barks & Bites for Friday, October 2: Third Circuit Unseals AI Fair Use Ruling; U.S. Stays Third in WIPO GII 2026; and Apple Hit With $5.7 Billion Verdict for Haptic Tech Infringement
+   Source: IPWatchdog.com | Published: 2026-10-02T18:15:17Z
+   https://ipwatchdog.com/2026/10/02/bites-barks-u-s-stays-third-in-wipo-gii-2026-and-apple-hit-with-5-7-billion-verdict-for-haptic-tech-infringement/
+   This week in Other Barks & Bites: the Federal Circuit affirms the invalidation of twist drill patent claims because the challenged patent could not claim priority to a parent patent application qualifying as prior art; the Third Circuit unseals its ruling aga…
+
+6. Over 38,000 tickets sold for Brasileirão Feminino A1 final at MorumBIS
+   Source: Onefootball.com | Published: 2026-10-02T18:14:00Z
+   https://onefootball.com/en/news/over-38000-tickets-sold-for-brasileirao-feminino-a1-final-at-morumbis-43552433
+   More than 38,000 tickets have already been sold for the Brasileirão Feminino A1 final, which will be contested between São Paulo and Corinthians this Saturday (3), at 4:30 p.m., at MorumBIS. The fig...
+
+7. Must-Have AI Skills for Your Resume
+   Source: Graphicdesignjunction.com | Published: 2026-10-02T18:07:27Z
+   https://graphicdesignjunction.com/2026/10/ai-skills-for-your-resume/
+   If you are preparing a resume for 2026 - 2027, these are some of the most useful AI skills to consider adding. Before adding new skills, it is also worth reviewing basic resume design principles so the document remains clear and easy to scan.
+The post Must-H…
+
+8. Men's football: Corinthians fine-tune for clashes, eyeing Brasileirão
+   Source: Onefootball.com | Published: 2026-10-02T18:05:00Z
+   https://onefootball.com/en/news/mens-football-corinthians-fine-tune-for-clashes-eyeing-brasileirao-43552387
+   Photo: Rodrigo Coca/Corinthians AgencyCorinthians continue to work hard in preparation for the resumption of the Brazilian Championship. On Friday morning (02), at CT Dr. Joaquim Grava, Timão held a ...
+PS C:\Users\labre\cloudComputing\cloudProject01>
+PS C:\Users\labre\cloudComputing\cloudProject01> & "C:\Program Files\Go\bin\go.exe" run . -query "artificial intelligence" -days 3 -limit 8
+Topic: artificial intelligence
+Days: 3 | Maximum articles: 8
+UTC range: 2026-10-01T00:00:00Z to 2026-10-03T18:23:43Z
+Returned: 8 | Source: API | API calls: 1 | Elapsed: 227ms
+Snapshot through: 2026-10-03T18:23:43Z
+
+1. Shuffle Board: Levi’s Taps Skechers CFO; Derek Lam Returns
+   Source: WWD | Published: 2026-10-02T18:22:52Z
+   http://wwd.com/sourcing-journal/industry-news/shuffle-board-levis-skechers-cfo-derek-lam-returns-1239304845/
+   Levi Strauss recruits Skechers CFO John Vandemore while Derek Lam returns to his namesake label ahead of its relaunch under NYC Alliance.
+
+2. Want to do NASA research? 24 new US projects backed by $23 million will let citizen scientists hunt comets, study space weather and explore Earth data — all you need to know
+   Source: The Times of India | Published: 2026-10-02T18:22:50Z
+   https://economictimes.indiatimes.com/news/international/global-trends/want-to-do-nasa-research-24-new-us-projects-backed-by-23-million-will-let-citizen-scientists-hunt-comets-study-space-weather-and-explore-earth-data-all-you-need-to-know/articleshow/134643808.cms
+   NASA has selected 24 organizations to partake in a new Science Activation portfolio aimed at public engagement. This initiative will provide hands-on opportunities in scientific research across various fields, such as astronomy and Earth sciences. Communities…
+
+3. Fox News AI Newsletter: The neighborhood on the edge of America's tech frontier
+   Source: Fox News | Published: 2026-10-02T18:22:39Z
+   https://www.foxnews.com/tech/fox-news-ai-newsletter-neighborhood-edge-americas-tech-frontier
+   The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities AI presents now and for the future.
+
+4. Dem Candidate Sends “Cease and Desist” Order to Republican Over Deepfake Ads
+   Source: Truthout | Published: 2026-10-02T18:18:08Z
+   https://truthout.org/articles/dem-candidate-sends-cease-and-desist-order-to-republican-over-deepfake-ads/
+   Democrat Rebecca Cooke said the deepfakes produced by GOP Rep. Derrick Van Orden “undermine our democratic process.”…
+
+5. Other Barks & Bites for Friday, October 2: Third Circuit Unseals AI Fair Use Ruling; U.S. Stays Third in WIPO GII 2026; and Apple Hit With $5.7 Billion Verdict for Haptic Tech Infringement
+   Source: IPWatchdog.com | Published: 2026-10-02T18:15:17Z
+   https://ipwatchdog.com/2026/10/02/bites-barks-u-s-stays-third-in-wipo-gii-2026-and-apple-hit-with-5-7-billion-verdict-for-haptic-tech-infringement/
+   This week in Other Barks & Bites: the Federal Circuit affirms the invalidation of twist drill patent claims because the challenged patent could not claim priority to a parent patent application qualifying as prior art; the Third Circuit unseals its ruling aga…
+
+6. Over 38,000 tickets sold for Brasileirão Feminino A1 final at MorumBIS
+   Source: Onefootball.com | Published: 2026-10-02T18:14:00Z
+   https://onefootball.com/en/news/over-38000-tickets-sold-for-brasileirao-feminino-a1-final-at-morumbis-43552433
+   More than 38,000 tickets have already been sold for the Brasileirão Feminino A1 final, which will be contested between São Paulo and Corinthians this Saturday (3), at 4:30 p.m., at MorumBIS. The fig...
+
+7. Must-Have AI Skills for Your Resume
+   Source: Graphicdesignjunction.com | Published: 2026-10-02T18:07:27Z
+   https://graphicdesignjunction.com/2026/10/ai-skills-for-your-resume/
+   If you are preparing a resume for 2026 - 2027, these are some of the most useful AI skills to consider adding. Before adding new skills, it is also worth reviewing basic resume design principles so the document remains clear and easy to scan.
+The post Must-H…
+
+8. Men's football: Corinthians fine-tune for clashes, eyeing Brasileirão
+   Source: Onefootball.com | Published: 2026-10-02T18:05:00Z
+   https://onefootball.com/en/news/mens-football-corinthians-fine-tune-for-clashes-eyeing-brasileirao-43552387
+   Photo: Rodrigo Coca/Corinthians AgencyCorinthians continue to work hard in preparation for the resumption of the Brazilian Championship. On Friday morning (02), at CT Dr. Joaquim Grava, Timão held a ...

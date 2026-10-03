@@ -1,0 +1,6 @@
+# Only Go source and dependency metadata are needed for the build.
+**
+!Dockerfile
+!go.mod
+!go.sum
+!*.go

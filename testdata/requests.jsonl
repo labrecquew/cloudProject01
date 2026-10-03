@@ -1,0 +1,6 @@
+{"id":"alice-1","user":"alice","query":"artificial intelligence","days":2,"limit":5}
+{"id":"bob-1","user":"bob","query":"artificial intelligence","days":2,"limit":5}
+{"id":"carol-1","user":"carol","query":"renewable energy","days":3,"limit":5}
+{"id":"dave-1","user":"dave","query":"space exploration","days":7,"limit":5}
+{"id":"erin-1","user":"erin","query":"renewable energy","days":3,"limit":5}
+{"id":"frank-1","user":"frank","query":"space exploration","days":7,"limit":5}
