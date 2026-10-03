@@ -1,0 +1,46 @@
+=== RUN   TestCacheRequestSequence
+=== RUN   TestCacheRequestSequence/first
+=== RUN   TestCacheRequestSequence/repeat
+=== RUN   TestCacheRequestSequence/smaller_limit
+=== RUN   TestCacheRequestSequence/larger_limit
+=== RUN   TestCacheRequestSequence/larger_period
+=== RUN   TestCacheRequestSequence/shorter_covered_period
+=== RUN   TestCacheRequestSequence/different_topic
+=== RUN   TestCacheRequestSequence/new_UTC_day
+--- PASS: TestCacheRequestSequence (0.03s)
+    --- PASS: TestCacheRequestSequence/first (0.00s)
+    --- PASS: TestCacheRequestSequence/repeat (0.00s)
+    --- PASS: TestCacheRequestSequence/smaller_limit (0.00s)
+    --- PASS: TestCacheRequestSequence/larger_limit (0.00s)
+    --- PASS: TestCacheRequestSequence/larger_period (0.00s)
+    --- PASS: TestCacheRequestSequence/shorter_covered_period (0.00s)
+    --- PASS: TestCacheRequestSequence/different_topic (0.00s)
+    --- PASS: TestCacheRequestSequence/new_UTC_day (0.00s)
+=== RUN   TestCachePersistsAcrossReopenWithoutAPIKey
+--- PASS: TestCachePersistsAcrossReopenWithoutAPIKey (0.02s)
+=== RUN   TestShorterPeriodDoesNotAssumeCoverage
+--- PASS: TestShorterPeriodDoesNotAssumeCoverage (0.01s)
+=== RUN   TestCacheRemembersRequestedLimitAndEmptyResults
+=== RUN   TestCacheRemembersRequestedLimitAndEmptyResults/available-0
+=== RUN   TestCacheRemembersRequestedLimitAndEmptyResults/available-2
+--- PASS: TestCacheRemembersRequestedLimitAndEmptyResults (0.02s)
+    --- PASS: TestCacheRemembersRequestedLimitAndEmptyResults/available-0 (0.01s)
+    --- PASS: TestCacheRemembersRequestedLimitAndEmptyResults/available-2 (0.01s)
+=== RUN   TestFailedExpansionPreservesCache
+--- PASS: TestFailedExpansionPreservesCache (0.01s)
+=== RUN   TestExpansionAddsArticlesWithoutDuplicates
+--- PASS: TestExpansionAddsArticlesWithoutDuplicates (0.01s)
+=== RUN   TestConcurrentIdenticalSearchUsesOneFetch
+--- PASS: TestConcurrentIdenticalSearchUsesOneFetch (0.01s)
+=== RUN   TestSearchPaginationAndDuplicateFiltering
+--- PASS: TestSearchPaginationAndDuplicateFiltering (0.01s)
+=== RUN   TestSearchDoesNotTreatLaterPageFailureAsSuccess
+--- PASS: TestSearchDoesNotTreatLaterPageFailureAsSuccess (0.00s)
+=== RUN   TestSearchRejectsMalformedResponse
+--- PASS: TestSearchRejectsMalformedResponse (0.00s)
+=== RUN   TestCalendarDaysAcrossMonthBoundary
+--- PASS: TestCalendarDaysAcrossMonthBoundary (0.00s)
+=== RUN   TestRejectInvalidInputs
+--- PASS: TestRejectInvalidInputs (0.00s)
+PASS
+ok  	cloudProject01	(cached)

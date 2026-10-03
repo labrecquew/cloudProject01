@@ -1,0 +1,18 @@
+# Run these in order on one UTC day using a new database file.
+# Set NEWS_API_KEY locally first. Do not delete an existing database to run this test.
+# Re-running this file with an already-populated database changes expected sources.
+
+# Expected: API (up to 5 articles)
+go run . -db data/cache-demo.db -query "artificial intelligence" -days 2 -limit 5
+
+# Expected: Database, zero API calls
+go run . -db data/cache-demo.db -query "artificial intelligence" -days 2 -limit 5
+
+# Expected: Database, zero API calls, up to 3 articles
+go run . -db data/cache-demo.db -query "artificial intelligence" -days 2 -limit 3
+
+# Expected: API because requested limit increased
+go run . -db data/cache-demo.db -query "artificial intelligence" -days 2 -limit 8
+
+# Expected: API because period increased
+go run . -db data/cache-demo.db -query "artificial intelligence" -days 3 -limit 8

@@ -1,0 +1,12 @@
+=== RUN   TestSearchPaginationAndDuplicateFiltering
+--- PASS: TestSearchPaginationAndDuplicateFiltering (0.01s)
+=== RUN   TestSearchDoesNotTreatLaterPageFailureAsSuccess
+--- PASS: TestSearchDoesNotTreatLaterPageFailureAsSuccess (0.00s)
+=== RUN   TestSearchRejectsMalformedResponse
+--- PASS: TestSearchRejectsMalformedResponse (0.00s)
+=== RUN   TestCalendarDaysAcrossMonthBoundary
+--- PASS: TestCalendarDaysAcrossMonthBoundary (0.00s)
+=== RUN   TestRejectInvalidInputs
+--- PASS: TestRejectInvalidInputs (0.00s)
+PASS
+ok  	cloudProject01	(cached)

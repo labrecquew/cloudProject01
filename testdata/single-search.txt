@@ -1,0 +1,9 @@
+# Run from the repository directory. No API key is needed for dry runs.
+go run . -query "artificial intelligence" -days 2 -limit 5 -dry-run
+go run . -query "space exploration" -days 7 -limit 10 -dry-run
+
+# Invalid input: expect a nonzero exit status.
+go run . -query "space exploration" -days 0 -limit 5 -dry-run
+
+# Live search: set NEWS_API_KEY locally first.
+go run . -query "artificial intelligence" -days 2 -limit 5

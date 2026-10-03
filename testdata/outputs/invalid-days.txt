@@ -1,0 +1,2 @@
+Error: days must be a positive integer
+exit status 1
