@@ -83,7 +83,3 @@ docker load -i cloudproject01-image.tar
 | `Dockerfile`, `.dockerignore` | Image build instructions and build-context exclusions |
 | `docs/report.md` | Project report, design, test results, measurements, and AI prompts |
 | `cloudproject01-image.tar` | Exported image in the local repository folder; excluded from Git |
-
-The GitHub repository contains the source, Dockerfile, README, report, and test inputs/outputs
-after they are committed and pushed. Submit the image archive separately. Use the repository
-link for the source only if your instructor accepts links.

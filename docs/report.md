@@ -8,7 +8,7 @@ This project is a Go command-line application for searching news by topic, numbe
 and maximum article count. It uses NewsAPI, saves results in a bbolt database, and supports
 multiple users through concurrent batch requests. Two days means today and yesterday in UTC.
 
-## Design
+## Design/Architecture
 
 - **Go CLI:** Go meets the assignment requirement and supports goroutines and channels directly.
   A command-line interface keeps usage simple without needing a web server. Command-line
