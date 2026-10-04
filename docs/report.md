@@ -10,13 +10,33 @@ multiple users through concurrent batch requests. Two days means today and yeste
 
 ## Design
 
-- **Go CLI:** a simple interface that accepts command-line options or a JSONL batch file.
-- **NewsAPI:** provides articles, publication times, sources, descriptions, and links.
-- **bbolt:** stores articles and search coverage in one local file without a database server.
-- **Concurrency:** worker goroutines receive jobs through a channel and send results through
-  another channel. One collector prints each response with its user and request ID.
+- **Go CLI:** Go meets the assignment requirement and supports goroutines and channels directly.
+  A command-line interface keeps usage simple without needing a web server. Command-line
+  options handle individual searches, while a JSONL file supplies multiple users' requests.
+- **NewsAPI:** one API response supplies article titles, publication times, sources,
+  descriptions, and links. Go's standard HTTP and JSON packages handle these requests,
+  keeping the application free of an additional API-client dependency.
+- **bbolt:** an embedded key-value database stores the cache in one local file. It was chosen
+  because the application needs to retrieve saved searches and articles by key, rather than
+  perform complex SQL queries. It requires no separate database server and supports the
+  standalone Go build used in the image. Transactions keep cache updates together, and
+  separate buckets hold articles and search coverage. The database survives application
+  restarts; a Docker volume preserves it between containers. Only one process can open a
+  given database file at a time, so simultaneous users are handled within one program.
+- **Concurrency:** a fixed number of worker goroutines receive jobs through a channel and
+  send results through another channel. This limits the number of active requests while
+  allowing independent topics to progress together. One collector prints each complete
+  response with its user and request ID, preventing workers' output from interleaving.
 - **Docker:** a multi-stage build compiles and tests the code, then copies only the stripped
-  executable and HTTPS certificates into a `scratch` image.
+  executable and HTTPS certificates into a `scratch` image. The compiler, build tools, and
+  source stay in the build stage to keep the final image small. The executable is built
+  without CGO so it does not need a separate C runtime. Certificates allow HTTPS requests,
+  and the API key is supplied at runtime rather than stored in the image.
+
+The source is divided by responsibility: `main.go` handles the CLI, `request.go` validates
+searches and dates, `news.go` calls the API, `cache.go` manages saved results, and `workers.go`
+coordinates batches. Each request is validated, checked against the shared cache, and sent
+to the API only when the cache does not cover it. Results are saved before being returned.
 
 Repeated searches use the database when it covers the requested days and limit. Larger limits
 or uncovered periods call the API and update the database. Articles are deduplicated by URL.
