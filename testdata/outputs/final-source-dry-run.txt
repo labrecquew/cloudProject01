@@ -1,0 +1,4 @@
+﻿Topic: space exploration
+Days: 2 | Maximum articles: 5
+UTC range: 2026-10-02T00:00:00Z to 2026-10-03T21:03:32Z
+Dry run: inputs are valid. No API request was made.

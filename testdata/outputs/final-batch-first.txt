@@ -1,0 +1,210 @@
+﻿
+Request: carol-1 | User: carol
+Topic: renewable energy
+Days: 3 | Maximum articles: 5
+UTC range: 2026-10-01T00:00:00Z to 2026-10-03T21:03:21Z
+Returned: 5 | Source: API | API calls: 1 | Elapsed: 310ms
+Snapshot through: 2026-10-03T21:03:21Z
+
+1. Climate Alliance featured ΓÇ£affordabilityΓÇ¥ law is anti-affordability
+   Source: Wattsupwiththat.com | Published: 2026-10-02T21:00:00Z
+   https://wattsupwiththat.com/2026/10/02/climate-alliance-featured-affordability-law-is-anti-affordability/
+   The Climate Alliance coalition of Democrat Governors recently featured a new Illinois ΓÇ£affordabilityΓÇ¥ law which is actually the opposite. This is a good example of the AllianceΓÇÖs anti-affordability policies.
+The post Climate Alliance featured ΓÇ£affordabilityΓÇ¥ ΓÇª
+
+2. Six Flags Magic Mountain goes full power with solar carport
+   Source: Theme Park Insider | Published: 2026-10-02T20:45:00Z
+   https://www.themeparkinsider.com/flume/202610/12691/
+   By Robert Niles: Power is flowing full force now from Six Flags Magic Mountain's parking lot solar canopies.The installation is the largest solar carport in California. It covers 4,315 parking spaces and can generate 20.8 million kilowatt-hours of electricityΓÇª
+
+3. Ford backs a big new solar farm for its Michigan factories
+   Source: Electrek | Published: 2026-10-02T19:52:03Z
+   http://electrek.co/2026/10/02/ford-backs-a-big-new-solar-farm-for-its-michigan-factories/
+   Detroit-based energy company DTE Energy has completed construction of a 100-megawatt (MW) solar farm near Coldwater, Michigan, that will help Ford power its home-state factories with cleaner electricity. 
+
+
+
+ moreΓÇª
+
+4. Adani Group committed to investment plans of over Γé╣6 lakh crore in Maharashtra across energy, airports and infra
+   Source: The Times of India | Published: 2026-10-02T19:19:03Z
+   https://economictimes.indiatimes.com/news/company/corporate-trends/adani-group-to-invest-over-6-lakh-crore-in-maharashtra-across-energy-airports-and-infra/articleshow/134645574.cms
+   Adani Group has announced plans to invest over Γé╣6 lakh crore in Maharashtra across multiple sectors. The investments are aimed at aiding Maharashtra's goal of becoming a $1 trillion economy by 2030. The group has committed to significant infrastructure projecΓÇª
+
+5. How YaleΓÇÖs climate investments create ripples beyond campus
+   Source: Yale.edu | Published: 2026-10-02T18:40:45Z
+   https://sustainability.yale.edu/news/how-yales-climate-investments-create-ripples-beyond-campus
+   A Yale @ Climate Week NYC panel brought together leaders from Yale, industry, and government to explore how institutional investments in climate solutions can influence markets, workforce development, infrastructure, and innovation across&nbsp;Connecticut.
+
+Request: erin-1 | User: erin
+Topic: renewable energy
+Days: 3 | Maximum articles: 5
+UTC range: 2026-10-01T00:00:00Z to 2026-10-03T21:03:21Z
+Returned: 5 | Source: Database | API calls: 0 | Elapsed: 0s
+Snapshot through: 2026-10-03T21:03:21Z
+
+1. Climate Alliance featured ΓÇ£affordabilityΓÇ¥ law is anti-affordability
+   Source: Wattsupwiththat.com | Published: 2026-10-02T21:00:00Z
+   https://wattsupwiththat.com/2026/10/02/climate-alliance-featured-affordability-law-is-anti-affordability/
+   The Climate Alliance coalition of Democrat Governors recently featured a new Illinois ΓÇ£affordabilityΓÇ¥ law which is actually the opposite. This is a good example of the AllianceΓÇÖs anti-affordability policies.
+The post Climate Alliance featured ΓÇ£affordabilityΓÇ¥ ΓÇª
+
+2. Six Flags Magic Mountain goes full power with solar carport
+   Source: Theme Park Insider | Published: 2026-10-02T20:45:00Z
+   https://www.themeparkinsider.com/flume/202610/12691/
+   By Robert Niles: Power is flowing full force now from Six Flags Magic Mountain's parking lot solar canopies.The installation is the largest solar carport in California. It covers 4,315 parking spaces and can generate 20.8 million kilowatt-hours of electricityΓÇª
+
+3. Ford backs a big new solar farm for its Michigan factories
+   Source: Electrek | Published: 2026-10-02T19:52:03Z
+   http://electrek.co/2026/10/02/ford-backs-a-big-new-solar-farm-for-its-michigan-factories/
+   Detroit-based energy company DTE Energy has completed construction of a 100-megawatt (MW) solar farm near Coldwater, Michigan, that will help Ford power its home-state factories with cleaner electricity. 
+
+
+
+ moreΓÇª
+
+4. Adani Group committed to investment plans of over Γé╣6 lakh crore in Maharashtra across energy, airports and infra
+   Source: The Times of India | Published: 2026-10-02T19:19:03Z
+   https://economictimes.indiatimes.com/news/company/corporate-trends/adani-group-to-invest-over-6-lakh-crore-in-maharashtra-across-energy-airports-and-infra/articleshow/134645574.cms
+   Adani Group has announced plans to invest over Γé╣6 lakh crore in Maharashtra across multiple sectors. The investments are aimed at aiding Maharashtra's goal of becoming a $1 trillion economy by 2030. The group has committed to significant infrastructure projecΓÇª
+
+5. How YaleΓÇÖs climate investments create ripples beyond campus
+   Source: Yale.edu | Published: 2026-10-02T18:40:45Z
+   https://sustainability.yale.edu/news/how-yales-climate-investments-create-ripples-beyond-campus
+   A Yale @ Climate Week NYC panel brought together leaders from Yale, industry, and government to explore how institutional investments in climate solutions can influence markets, workforce development, infrastructure, and innovation across&nbsp;Connecticut.
+
+Request: alice-1 | User: alice
+Topic: artificial intelligence
+Days: 2 | Maximum articles: 5
+UTC range: 2026-10-02T00:00:00Z to 2026-10-03T21:03:21Z
+Returned: 5 | Source: API | API calls: 1 | Elapsed: 315ms
+Snapshot through: 2026-10-03T21:03:21Z
+
+1. Anthropic to invest $100 million to train AI engineer talent
+   Source: CNBC | Published: 2026-10-02T21:03:06Z
+   https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html
+   Anthropic will invest $100 million to train nearly 10,000 AI engineers, partnering with a number of consulting firms.
+
+2. G-7 Agrees to Release 100 Million Barrels of Reserve Diesel
+   Source: Foreign Policy | Published: 2026-10-02T21:01:12Z
+   http://foreignpolicy.com/2026/10/02/g7-release-emergency-diesel-crude-stockpiles-fuel-prices-trump/
+   The White House had threatened to ban U.S. diesel exports if Europe did not step up.
+
+3. Ottawa launches new national AI council to advise on safety, deployment
+   Source: CBC News | Published: 2026-10-02T20:58:51Z
+   https://www.cbc.ca/news/politics/carney-national-council-ai-9.7367475
+   Prime Minister Mark Carney's new national council on artificial intelligence is meant to provide the government with guidance on the evolution of its AI strategy and on making the technology safer.
+
+4. Bank AI Job Postings Jump 49% as Agents Go to Work
+   Source: Biztoc.com | Published: 2026-10-02T20:54:18Z
+   https://biztoc.com/x/32c85f11ba1291cd
+   Wall Street banks are accelerating artificial intelligence hiring as they shift from chatbots to AI agents. Hiring is expanding beyond model builders to engineers who put agents to work across trading desks, compliance units and back-office operations.
+AI-relΓÇª
+
+5. The ΓÇÿWarGamesΓÇÖ Problem: Computer Science Has Long Understood What It Takes to Keep AI Under Control
+   Source: Singularity Hub | Published: 2026-10-02T20:54:15Z
+   https://singularityhub.com/2026/10/02/the-wargames-problem-computer-science-has-long-understood-what-it-takes-to-keep-ai-under-control/#article
+   The AI hacking events involving OpenAI, Anthropic, and Google underscore lessons that draw on years of computer science research.
+The post The ΓÇÿWarGamesΓÇÖ Problem: Computer Science Has Long Understood What It Takes to Keep AI Under Control appeared first on SiΓÇª
+
+Request: bob-1 | User: bob
+Topic: artificial intelligence
+Days: 2 | Maximum articles: 5
+UTC range: 2026-10-02T00:00:00Z to 2026-10-03T21:03:21Z
+Returned: 5 | Source: Database | API calls: 0 | Elapsed: 316ms
+Snapshot through: 2026-10-03T21:03:21Z
+
+1. Anthropic to invest $100 million to train AI engineer talent
+   Source: CNBC | Published: 2026-10-02T21:03:06Z
+   https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html
+   Anthropic will invest $100 million to train nearly 10,000 AI engineers, partnering with a number of consulting firms.
+
+2. G-7 Agrees to Release 100 Million Barrels of Reserve Diesel
+   Source: Foreign Policy | Published: 2026-10-02T21:01:12Z
+   http://foreignpolicy.com/2026/10/02/g7-release-emergency-diesel-crude-stockpiles-fuel-prices-trump/
+   The White House had threatened to ban U.S. diesel exports if Europe did not step up.
+
+3. Ottawa launches new national AI council to advise on safety, deployment
+   Source: CBC News | Published: 2026-10-02T20:58:51Z
+   https://www.cbc.ca/news/politics/carney-national-council-ai-9.7367475
+   Prime Minister Mark Carney's new national council on artificial intelligence is meant to provide the government with guidance on the evolution of its AI strategy and on making the technology safer.
+
+4. Bank AI Job Postings Jump 49% as Agents Go to Work
+   Source: Biztoc.com | Published: 2026-10-02T20:54:18Z
+   https://biztoc.com/x/32c85f11ba1291cd
+   Wall Street banks are accelerating artificial intelligence hiring as they shift from chatbots to AI agents. Hiring is expanding beyond model builders to engineers who put agents to work across trading desks, compliance units and back-office operations.
+AI-relΓÇª
+
+5. The ΓÇÿWarGamesΓÇÖ Problem: Computer Science Has Long Understood What It Takes to Keep AI Under Control
+   Source: Singularity Hub | Published: 2026-10-02T20:54:15Z
+   https://singularityhub.com/2026/10/02/the-wargames-problem-computer-science-has-long-understood-what-it-takes-to-keep-ai-under-control/#article
+   The AI hacking events involving OpenAI, Anthropic, and Google underscore lessons that draw on years of computer science research.
+The post The ΓÇÿWarGamesΓÇÖ Problem: Computer Science Has Long Understood What It Takes to Keep AI Under Control appeared first on SiΓÇª
+
+Request: dave-1 | User: dave
+Topic: space exploration
+Days: 7 | Maximum articles: 5
+UTC range: 2026-09-27T00:00:00Z to 2026-10-03T21:03:21Z
+Returned: 5 | Source: API | API calls: 1 | Elapsed: 322ms
+Snapshot through: 2026-10-03T21:03:21Z
+
+1. Hale H┼ìk┼½ala Kaua╩╗i Debuts as Curio Collection by Hilton's First Hawai╩╗i Resort
+   Source: PRNewswire | Published: 2026-10-02T20:41:00Z
+   https://www.prnewswire.com/news-releases/hale-hkala-kauai-debuts-as-curio-collection-by-hiltons-first-hawaii-resort-302897477.html
+   The 210-room lifestyle resort introduces distinctive design, locally inspired dining and memorable stays celebrating the people and traditions of Kaua╩╗i High-resolution property images are available for download here. MCLEAN, Va. and KAUA╩╗I, Hawai╩╗i, Oct. 2, ΓÇª
+
+2. Space monitoring firm NorthStar collapses in public market debut
+   Source: Financial Post | Published: 2026-10-02T20:10:28Z
+   https://financialpost.com/investing/space-monitoring-firm-northstar-collapses-public-debut
+   Shares of space surveillance provider NorthStar Earth & Space Inc. dropped as much as 45% on its first trading day on the NYSE. Read here
+
+3. Scientists Thought MarsΓÇÖs North Polar Ice Was 25% Dust. They Were Way Off
+   Source: Gizmodo.com | Published: 2026-10-02T20:00:13Z
+   https://gizmodo.com/scientists-thought-marss-north-polar-ice-was-25-dust-they-were-way-off-2000820946
+   Previous research pointed to copious amounts of dust atop the arctic Martian wasteland, but a clearer picture is coming into focus.
+
+4. NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia
+   Source: NASA | Published: 2026-10-02T19:54:54Z
+   https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/
+   As part of NASAΓÇÖs ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight AmericaΓÇÖs strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs. Los Angeles Rams game in Philadelphia on Sunday, Oct. 4. A self-proclaiΓÇª
+
+5. SpaceX Just Launched 3 Rockets in 13 Hours. HereΓÇÖs What Investors Need to Know Right Now
+   Source: Biztoc.com | Published: 2026-10-02T19:31:43Z
+   https://biztoc.com/x/5929069f02cffcee
+   Space Exploration Technologies Corp. (NASDAQ:SPCX) just launched three rockets in less than 13 hours, a pretty incredible feat that's led to a 6% bump in the company's stock so far in Friday's trading.
+The company sent four astronauts to the International SpaΓÇª
+
+Request: frank-1 | User: frank
+Topic: space exploration
+Days: 7 | Maximum articles: 5
+UTC range: 2026-09-27T00:00:00Z to 2026-10-03T21:03:21Z
+Returned: 5 | Source: Database | API calls: 0 | Elapsed: 12ms
+Snapshot through: 2026-10-03T21:03:21Z
+
+1. Hale H┼ìk┼½ala Kaua╩╗i Debuts as Curio Collection by Hilton's First Hawai╩╗i Resort
+   Source: PRNewswire | Published: 2026-10-02T20:41:00Z
+   https://www.prnewswire.com/news-releases/hale-hkala-kauai-debuts-as-curio-collection-by-hiltons-first-hawaii-resort-302897477.html
+   The 210-room lifestyle resort introduces distinctive design, locally inspired dining and memorable stays celebrating the people and traditions of Kaua╩╗i High-resolution property images are available for download here. MCLEAN, Va. and KAUA╩╗I, Hawai╩╗i, Oct. 2, ΓÇª
+
+2. Space monitoring firm NorthStar collapses in public market debut
+   Source: Financial Post | Published: 2026-10-02T20:10:28Z
+   https://financialpost.com/investing/space-monitoring-firm-northstar-collapses-public-debut
+   Shares of space surveillance provider NorthStar Earth & Space Inc. dropped as much as 45% on its first trading day on the NYSE. Read here
+
+3. Scientists Thought MarsΓÇÖs North Polar Ice Was 25% Dust. They Were Way Off
+   Source: Gizmodo.com | Published: 2026-10-02T20:00:13Z
+   https://gizmodo.com/scientists-thought-marss-north-polar-ice-was-25-dust-they-were-way-off-2000820946
+   Previous research pointed to copious amounts of dust atop the arctic Martian wasteland, but a clearer picture is coming into focus.
+
+4. NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia
+   Source: NASA | Published: 2026-10-02T19:54:54Z
+   https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/
+   As part of NASAΓÇÖs ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight AmericaΓÇÖs strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs. Los Angeles Rams game in Philadelphia on Sunday, Oct. 4. A self-proclaiΓÇª
+
+5. SpaceX Just Launched 3 Rockets in 13 Hours. HereΓÇÖs What Investors Need to Know Right Now
+   Source: Biztoc.com | Published: 2026-10-02T19:31:43Z
+   https://biztoc.com/x/5929069f02cffcee
+   Space Exploration Technologies Corp. (NASDAQ:SPCX) just launched three rockets in less than 13 hours, a pretty incredible feat that's led to a 6% bump in the company's stock so far in Friday's trading.
+The company sent four astronauts to the International SpaΓÇª
+
+Batch complete: requests=6 successful=6 failed=0 API calls=3 workers=4 elapsed=322ms

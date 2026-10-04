@@ -1,0 +1,48 @@
+﻿[
+    {
+        "Id": "sha256:e18cdaedaa98b7eec54f9e55e2a97da6772e027de8a9a922a73f0430b65f22d3",
+        "RepoTags": [
+            "cloudproject01:1.0"
+        ],
+        "RepoDigests": [
+            "cloudproject01@sha256:e18cdaedaa98b7eec54f9e55e2a97da6772e027de8a9a922a73f0430b65f22d3"
+        ],
+        "Comment": "buildkit.dockerfile.v0",
+        "Created": "2026-10-03T18:55:38.95949072Z",
+        "Config": {
+            "Env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+            ],
+            "Entrypoint": [
+                "/cloudProject01"
+            ],
+            "WorkingDir": "/"
+        },
+        "Architecture": "amd64",
+        "Os": "linux",
+        "Size": 10334114,
+        "RootFS": {
+            "Type": "layers",
+            "Layers": [
+                "sha256:fb84037cb82322639d62dd76e4042a7338e18e0d9d8ac94cb449f5769703c867",
+                "sha256:939b8c86153f119c161605e246449ac5d61b49096d3ab3ce4b5d7ef55837eb2d"
+            ]
+        },
+        "Metadata": {
+            "LastTagTime": "2026-10-03T21:03:19.723568615Z"
+        },
+        "Descriptor": {
+            "mediaType": "application/vnd.oci.image.index.v1+json",
+            "digest": "sha256:e18cdaedaa98b7eec54f9e55e2a97da6772e027de8a9a922a73f0430b65f22d3",
+            "size": 855
+        },
+        "Identity": {
+            "Build": [
+                {
+                    "Ref": "kmtt7lib7xxqf1m2v3g2dqukw",
+                    "CreatedAt": "2026-10-03T21:03:19.73559655Z"
+                }
+            ]
+        }
+    }
+]

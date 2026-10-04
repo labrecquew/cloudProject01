@@ -1,0 +1,58 @@
+﻿#0 building with "desktop-linux" instance using docker driver
+System.Management.Automation.RemoteException
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 845B 0.0s done
+#1 DONE 0.1s
+System.Management.Automation.RemoteException
+#2 [internal] load metadata for docker.io/library/golang:1.27.1-alpine3.24@sha256:8a5910f31396cd4d89662f56c68b3ae31d374308270a1c3bd96672ee5ed43414
+#2 DONE 0.0s
+System.Management.Automation.RemoteException
+#3 [internal] load .dockerignore
+#3 transferring context:
+#3 transferring context: 144B done
+#3 DONE 0.0s
+System.Management.Automation.RemoteException
+#4 [build 1/8] FROM docker.io/library/golang:1.27.1-alpine3.24@sha256:8a5910f31396cd4d89662f56c68b3ae31d374308270a1c3bd96672ee5ed43414
+#4 resolve docker.io/library/golang:1.27.1-alpine3.24@sha256:8a5910f31396cd4d89662f56c68b3ae31d374308270a1c3bd96672ee5ed43414 0.0s done
+#4 DONE 0.0s
+System.Management.Automation.RemoteException
+#5 [internal] load build context
+#5 transferring context: 36.63kB 0.0s done
+#5 DONE 0.0s
+System.Management.Automation.RemoteException
+#6 [build 8/8] RUN CGO_ENABLED=0 GOOS=linux go build -buildvcs=false -trimpath -ldflags="-s -w" -o /out/cloudProject01 .
+#6 CACHED
+System.Management.Automation.RemoteException
+#7 [stage-1 1/3] COPY --from=build /etc/ssl/certs/ca-certificates.crt /etc/ssl/certs/ca-certificates.crt
+#7 CACHED
+System.Management.Automation.RemoteException
+#8 [build 6/8] COPY *.go ./
+#8 CACHED
+System.Management.Automation.RemoteException
+#9 [build 3/8] RUN apk add --no-cache ca-certificates gcc musl-dev
+#9 CACHED
+System.Management.Automation.RemoteException
+#10 [build 7/8] RUN CGO_ENABLED=1 go test -race -timeout 60s ./...
+#10 CACHED
+System.Management.Automation.RemoteException
+#11 [build 2/8] WORKDIR /src
+#11 CACHED
+System.Management.Automation.RemoteException
+#12 [build 4/8] COPY go.mod go.sum ./
+#12 CACHED
+System.Management.Automation.RemoteException
+#13 [build 5/8] RUN go mod download
+#13 CACHED
+System.Management.Automation.RemoteException
+#14 [stage-1 2/3] COPY --from=build /out/cloudProject01 /cloudProject01
+#14 CACHED
+System.Management.Automation.RemoteException
+#15 exporting to image
+#15 exporting layers done
+#15 exporting manifest sha256:84e5f37f2271ef3795fa56fdd9ed1182f01eb33b5350ccaa748de30acf8211a2 done
+#15 exporting config sha256:fa0788ba1cf812ac68ce566b9a7bdde3f74470889b786caac2e1eff923d9cf98 done
+#15 exporting attestation manifest sha256:e3a85be8311d4beeac28d57107f40c35fc84bf9609c4bb7c7b3aa51887f00ffe 0.0s done
+#15 exporting manifest list sha256:d79b376e6daaf978688dfc6ca9ae05ba6c68d30bb77e6e62849752a8d96715c1 0.0s done
+#15 naming to docker.io/library/cloudproject01:source-check done
+#15 unpacking to docker.io/library/cloudproject01:source-check 0.0s done
+#15 DONE 0.1s
